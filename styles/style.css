@@ -1,0 +1,32 @@
+.brandlogo{
+    width: 40.424px;
+    height: 51px; 
+}
+.profilepic{
+    width: 51px;
+    height: 51px; 
+}
+body{
+    background-color: #F3F1FF;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: #ffffff;
+}
+.navbar{
+    text-align: center;
+    background-color: #562EFF;
+}
+.nav-item{
+    padding-left: 36px;
+}
+.player img{
+    width: 56px;
+    height: 56px; 
+}
+.tittle{
+    margin-bottom: 5px;
+    color: #562EFF;
+}
